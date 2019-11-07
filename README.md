@@ -3,6 +3,6 @@
 # Modules
 
 Shows various content in a loop. Supported modules are media files
-(images/videos), Twitter and RSS Feeds.
+(images/videos), RSS and RSS Feeds.
 
 ## This is a work in progress package. Use at your own risk.

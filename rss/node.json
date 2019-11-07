@@ -11,7 +11,7 @@
         "ui_width": 9,
         "name": "url",
         "type": "string",
-        "default": "https://info-beamer.com/blog.rss"
+        "default": "https://www.chemeurope.com/en/news/rss/"
     }, {
         "title": "Poll Interval",
         "ui_width": 3,

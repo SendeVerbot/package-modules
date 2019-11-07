@@ -10,7 +10,7 @@ api.playlist{{
     duration = 3,
     prepare = 1,
     value = {
-        text = "No playable item found",
+        text = "IDLE No content",
     }
 }}
 
